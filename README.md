@@ -1,7 +1,7 @@
 # Plantilla-de-Repl.it-basica
 una simple plantilla para empezar a hacer bots con discord.py
 
-tienes que crear un bot desde aquui:https://discord.com/developers/applications
+tienes que crear un bot desde aqui:https://discord.com/developers/applications
 
 para usarla tendras que ir a https://repl.it/, crearte una cuenta y crear un nuevo repl con python
 ejemplo:
