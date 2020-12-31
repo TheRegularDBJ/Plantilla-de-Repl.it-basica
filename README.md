@@ -8,6 +8,6 @@ ejemplo:
 ![ejemplo](https://github.com/TheRegularDBJ/Plantilla-de-Repl.it-basica/blob/master/python.jpg?raw=true)
 
 
-despues subes los archivos de este repo y creas un archivo llamado '.env' y esribes lo de abajo:
+despues subes los archivos de este repo y creas un archivo llamado '.env' y esribes:
 `DISCORD_BOT_SECRET=token del bot`
 
